@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "nama": "bill",
+      "nomor": "001"
+    },
+    {
+      "nama": "frank",
+      "nomor": "002",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "nama": "liaa",
+      "nomor": "003"
+    }
+  ]
+}
